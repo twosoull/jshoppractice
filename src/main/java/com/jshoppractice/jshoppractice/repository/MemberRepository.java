@@ -1,4 +1,4 @@
-package com.jshoppractice.jshoppractice.controller;
+package com.jshoppractice.jshoppractice.repository;
 
 import com.jshoppractice.jshoppractice.domain.Address;
 import com.jshoppractice.jshoppractice.domain.Member;

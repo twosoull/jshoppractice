@@ -1,7 +1,5 @@
-package com.jshoppractice.jshoppractice.controller;
+package com.jshoppractice.jshoppractice.form;
 
-import com.jshoppractice.jshoppractice.domain.Address;
-import com.jshoppractice.jshoppractice.domain.Member;
 import jakarta.validation.constraints.NotEmpty;
 import lombok.Getter;
 import lombok.Setter;

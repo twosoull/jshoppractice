@@ -1,5 +1,6 @@
-package com.jshoppractice.jshoppractice.controller;
+package com.jshoppractice.jshoppractice.service;
 
+import com.jshoppractice.jshoppractice.repository.MemberRepository;
 import com.jshoppractice.jshoppractice.domain.Member;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
